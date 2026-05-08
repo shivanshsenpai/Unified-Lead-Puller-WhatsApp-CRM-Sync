@@ -1,7 +1,5 @@
 # Automated-WhatsApp-CRM-Logistics-Tracker
-A streamlined, automated Customer Relationship Management (CRM) and logistics tracking system. This project integrates Google Sheets with the WhatsApp API to automate customer communications and order tracking. It leverages Google Apps Script for real-time spreadsheet triggers and Python for backend processing, ensuring that sensitive credentials
-# Automated WhatsApp CRM & Logistics Tracker
-
+A comprehensive Google Apps Script automation that integrates third-party lead generation (like IndiaMART) directly into Google Sheets. It automatically pulls new leads via API, categorizes them based on user-defined custom rules, and manages grouped counters. The script also features a background engine to sync these processed contacts directly to Google Contacts and includes a UI-driven tool to export categorized lead lists as CSV files for WhatsApp bulk messaging.
 ## Overview
 This repository contains the generalized code for an automated CRM system. It connects a Google Sheets database with the WhatsApp API to manage logistics, track orders, and automate customer notifications securely and efficiently.
 
